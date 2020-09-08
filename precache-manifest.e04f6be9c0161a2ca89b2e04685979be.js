@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d292acf0a2a19ac203d141f03a9c085",
+    "revision": "ee55f1d2a3bc459d1ca5a86eaf8b4d36",
     "url": "/food-find/index.html"
   },
   {
-    "revision": "236c6c16d86718e928ce",
+    "revision": "2ee5eb231707dfed672b",
     "url": "/food-find/static/css/main.436f594e.chunk.css"
   },
   {
-    "revision": "9925d90d1471d1ce66f7",
-    "url": "/food-find/static/js/2.99d41395.chunk.js"
+    "revision": "b08a96adf23831ea4c6d",
+    "url": "/food-find/static/js/2.c61a330d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/food-find/static/js/2.99d41395.chunk.js.LICENSE.txt"
+    "url": "/food-find/static/js/2.c61a330d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "236c6c16d86718e928ce",
-    "url": "/food-find/static/js/main.5ac2e21d.chunk.js"
+    "revision": "2ee5eb231707dfed672b",
+    "url": "/food-find/static/js/main.7fabca11.chunk.js"
   },
   {
-    "revision": "254ccf905c44ec5d7853",
-    "url": "/food-find/static/js/runtime-main.38b3be83.js"
+    "revision": "9a692c06ff56a05cd4db",
+    "url": "/food-find/static/js/runtime-main.33e1126f.js"
   },
   {
     "revision": "902df4c501596c42571749648e081c71",
