@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/food-find/static/css/main.436f594e.chunk.css",
+    "main.js": "/food-find/static/js/main.5ac2e21d.chunk.js",
+    "main.js.map": "/food-find/static/js/main.5ac2e21d.chunk.js.map",
+    "runtime-main.js": "/food-find/static/js/runtime-main.38b3be83.js",
+    "runtime-main.js.map": "/food-find/static/js/runtime-main.38b3be83.js.map",
+    "static/js/2.99d41395.chunk.js": "/food-find/static/js/2.99d41395.chunk.js",
+    "static/js/2.99d41395.chunk.js.map": "/food-find/static/js/2.99d41395.chunk.js.map",
+    "index.html": "/food-find/index.html",
+    "precache-manifest.e27caf560eeba26ee5afcb1ce85f9dd5.js": "/food-find/precache-manifest.e27caf560eeba26ee5afcb1ce85f9dd5.js",
+    "service-worker.js": "/food-find/service-worker.js",
+    "static/css/main.436f594e.chunk.css.map": "/food-find/static/css/main.436f594e.chunk.css.map",
+    "static/js/2.99d41395.chunk.js.LICENSE.txt": "/food-find/static/js/2.99d41395.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/food-find/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38b3be83.js",
+    "static/js/2.99d41395.chunk.js",
+    "static/css/main.436f594e.chunk.css",
+    "static/js/main.5ac2e21d.chunk.js"
+  ]
+}
