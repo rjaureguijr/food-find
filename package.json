@@ -1,6 +1,6 @@
 {
   "homepage": "https://rjaureguijr.github.io/food-find",
-  "name": "ravenous",
+  "name": "food-find",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
